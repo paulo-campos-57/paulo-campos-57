@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/paulo-campos-57">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-campos-57&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-campos-57&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-campos-57&show_icons=true&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-campos-57&layout=compact&langs_count=7&theme=white"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
