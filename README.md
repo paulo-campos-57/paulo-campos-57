@@ -1,4 +1,5 @@
-### Bem vindo ao meu Github! 👋
+### Bem vindo ao meu Github!
+### Welcome to my Github!
 
 <div>
   <a href="https://github.com/paulo-campos-57">
