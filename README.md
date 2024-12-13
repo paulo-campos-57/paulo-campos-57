@@ -16,7 +16,7 @@
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,django,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,django,spring,docker" /><br>
     <img src="https://skillicons.dev/icons?i=c,linux,react,javascript,html,css" /><br>
 </div>
 
@@ -36,7 +36,7 @@
 </div>
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,django,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,mysql,django,spring,docker" /><br>
     <img src="https://skillicons.dev/icons?i=c,linux,react,javascript,html,css" /><br>
 </div>
 
