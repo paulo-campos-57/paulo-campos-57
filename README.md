@@ -8,7 +8,7 @@
 <div align="justify">
   - I'm a developer from Recife - Pernambuco<br>
   - I'm Graduating in Computer Science at <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
-  - I'm currently learning: <strong> React, Go Language, Tests in Cucumber and Docker </strong>
+  - I'm currently learning: <strong> React, Typescript, C#,  and Docker</strong>
   <div align="center">
       <a href="https://www.linkedin.com/in/paulo-campos-a5ba8a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href = "mailto:paulo.m.campos6601@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -28,7 +28,7 @@
 <div align="justify">
   - Sou um desenvolvedor de Recife - Pernambuco<br>
   - Estou me graduando em Ciência da Computação no <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
-  - Atualmente estou aprendendo: <strong> React, Go Language, Testes em Cucumber and Docker </strong>
+  - Atualmente estou aprendendo: <strong> React, Typescript, C#,  and Docker</strong>
   <div align="center">
       <a href="https://www.linkedin.com/in/paulo-campos-a5ba8a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href = "mailto:paulo.m.campos6601@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
