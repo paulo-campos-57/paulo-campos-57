@@ -8,7 +8,7 @@
 <div align="justify">
   - I'm a developer from Recife - Pernambuco<br>
   - I'm Graduating in Computer Science at <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
-  - I'm currently learning: <strong> React, Typescript, C#,  and Docker</strong>
+  - I'm currently learning: <strong> Typescript, Kubernetes,  and Docker</strong>
   <div align="center">
       <a href="https://www.linkedin.com/in/paulo-campos-a5ba8a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href = "mailto:paulo.m.campos6601@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,dotnet,flask,django,spring,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,java,cs,dotnet,flask,django,spring,docker" /><br>
     <img src="https://skillicons.dev/icons?i=c,mysql,postgres,linux,react,typescript,javascript,html,css" /><br>
 </div>
 
@@ -28,7 +28,7 @@
 <div align="justify">
   - Sou um desenvolvedor de Recife - Pernambuco<br>
   - Estou me graduando em Ciência da Computação no <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
-  - Atualmente estou aprendendo: <strong> React, Typescript, C#,  and Docker</strong>
+  - Atualmente estou aprendendo: <strong> Typescript, Kubernetes,  and Docker</strong>
   <div align="center">
       <a href="https://www.linkedin.com/in/paulo-campos-a5ba8a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href = "mailto:paulo.m.campos6601@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,7 +36,7 @@
 </div>
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,dotnet,flask,django,spring,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,java,cs,dotnet,flask,django,spring,docker" /><br>
     <img src="https://skillicons.dev/icons?i=c,mysql,postgres,linux,react,typescript,javascript,html,css" /><br>
 </div>
 
