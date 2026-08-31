@@ -7,7 +7,7 @@
 </h3>
 <div align="justify">
   - I'm a developer from Recife - Pernambuco<br>
-  - I'm Graduating in Computer Science at <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
+  - I'm graduated in Computer Science at <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
   - I'm currently learning: <strong> Typescript, Kubernetes,  and Docker</strong>
   <div align="center">
       <a href="https://www.linkedin.com/in/paulo-campos-a5ba8a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -27,7 +27,7 @@
 </h3>
 <div align="justify">
   - Sou um desenvolvedor de Recife - Pernambuco<br>
-  - Estou me graduando em Ciência da Computação no <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
+  - Sou graduado em Ciência da Computação no <a href="https://www.cesar.school/" target="_blank">CESAR School</a><br>
   - Atualmente estou aprendendo: <strong> Typescript, Kubernetes,  and Docker</strong>
   <div align="center">
       <a href="https://www.linkedin.com/in/paulo-campos-a5ba8a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
