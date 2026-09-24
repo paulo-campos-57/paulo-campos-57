@@ -6,7 +6,7 @@
 
 - Based in Recife, Pernambuco - Brazil
 - Computer Science Graduate from <a href="https://www.cesar.school/" target="_blank">CESAR School</a>
-- Currently learning: **TypeScript, Docker & Kubernetes**
+- Currently learning: **MongoDB, Docker & Kubernetes**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulo-campos-a5ba8a1b7/" target="_blank">
@@ -65,7 +65,7 @@
 
 - De Recife, Pernambuco - Brasil
 - Graduado em Ciência da Computação pela <a href="https://www.cesar.school/" target="_blank">CESAR School</a>
-- Atualmente aprendendo: **TypeScript, Docker e Kubernetes**
+- Atualmente aprendendo: **MongoDB, Docker e Kubernetes**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulo-campos-a5ba8a1b7/" target="_blank">
